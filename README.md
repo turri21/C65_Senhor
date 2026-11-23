@@ -1,3 +1,8 @@
+=(C65_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # Commodore 65 for MiSTer
 
 A from-scratch Commodore 65 core for the MiSTer (DE10-Nano). It recreates
